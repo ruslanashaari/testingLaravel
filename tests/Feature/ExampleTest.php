@@ -18,6 +18,6 @@ class ExampleTest extends TestCase
 
         // $response->assertStatus(200);
         $this->get('/')
-            ->assertSee('Laravel');
+            ->assertSee('dfdff');
     }
 }
